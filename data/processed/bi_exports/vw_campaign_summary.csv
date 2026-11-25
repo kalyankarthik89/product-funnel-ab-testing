@@ -1,0 +1,3 @@
+campaign_group,matched_days,total_spend_usd,total_impressions,total_reach,total_clicks,total_searches,total_views,total_carts,total_purchases,blended_cpm_usd,blended_cpc_usd,blended_cpa_usd,avg_ad_frequency,ctr_pct,click_to_search_pct,search_to_view_pct,view_to_cart_pct,cart_to_purchase_pct,click_to_purchase_pct,overall_imp_to_purchase_pct
+Control,29,66818,3177233.0,2576503.0,154303.0,64418.0,56370.0,37700.0,15161.0,21.03,0.433,4.41,1.233,4.857,41.75,87.51,66.88,40.21,9.83,0.4772
+Test,29,74595,2123249.0,1509609.0,175107.0,70463.0,54882.0,25490.0,14869.0,35.13,0.426,5.02,1.406,8.247,40.24,77.89,46.45,58.33,8.49,0.7003

@@ -1,0 +1,13 @@
+campaign_group,stage_order,stage_name,stage_volume,step_conversion_pct,step_dropoff_pct
+Control,1,Impressions,3177233.0,100.0,0.0
+Control,2,Website Clicks,154303.0,4.86,95.14
+Control,3,Searches,64418.0,41.75,58.25
+Control,4,View Content,56370.0,87.51,12.49
+Control,5,Add to Cart,37700.0,66.88,33.12
+Control,6,Purchase,15161.0,40.21,59.79
+Test,1,Impressions,2123249.0,100.0,0.0
+Test,2,Website Clicks,175107.0,8.25,91.75
+Test,3,Searches,70463.0,40.24,59.76
+Test,4,View Content,54882.0,77.89,22.11
+Test,5,Add to Cart,25490.0,46.45,53.55
+Test,6,Purchase,14869.0,58.33,41.67

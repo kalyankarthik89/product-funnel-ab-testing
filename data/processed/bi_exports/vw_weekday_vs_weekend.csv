@@ -1,0 +1,5 @@
+day_type,campaign_group,days,spend_usd,impressions,clicks,carts,purchases,ctr_pct,click_to_purchase_pct,cpa_usd
+Weekday,Control,21,49989,2322188.0,112116.0,27265.0,11804.0,4.828,10.53,4.23
+Weekday,Test,21,55357,1489147.0,125560.0,19758.0,11593.0,8.432,9.23,4.78
+Weekend,Control,8,16829,855045.0,42187.0,10435.0,3357.0,4.934,7.96,5.01
+Weekend,Test,8,19238,634102.0,49547.0,5732.0,3276.0,7.814,6.61,5.87

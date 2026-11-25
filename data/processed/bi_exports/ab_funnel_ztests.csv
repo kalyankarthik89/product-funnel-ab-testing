@@ -1,0 +1,8 @@
+Metric,Control (%),Test (%),Abs Diff (pp),Rel Lift (%),Z-Stat,p-value,Significant (95%)
+CTR (Clicks / Impressions),4.857,8.247,3.391,69.82,158.44,<0.0001,Yes
+Click -> Search,41.748,40.24,-1.508,-3.61,-8.78,<0.0001,Yes
+Search -> View Content,87.507,77.888,-9.619,-10.99,-46.42,<0.0001,Yes
+View Content -> Add to Cart,66.88,46.445,-20.434,-30.55,-68.79,<0.0001,Yes
+Add to Cart -> Purchase,40.215,58.333,18.118,45.05,44.74,<0.0001,Yes
+Click -> Purchase (Site CVR),9.825,8.491,-1.334,-13.58,-13.27,<0.0001,Yes
+Impressions -> Purchase,0.477,0.7,0.223,46.76,33.54,<0.0001,Yes

@@ -1,0 +1,3 @@
+data/processed/ab_testing.db
+.DS_Store
+__pycache__/
